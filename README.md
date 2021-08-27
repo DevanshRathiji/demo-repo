@@ -1,2 +1,2 @@
 # demo-repo
-a repository for getting familiar with github
+a repository for getting familiar with github.
